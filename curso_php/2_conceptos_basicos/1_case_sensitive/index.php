@@ -12,3 +12,5 @@
   echo $nome;
   echo "<br>";
   echo $NOME;
+
+  ?>
